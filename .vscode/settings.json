@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/david/Documentos/Bibliotecas Java/junit-4.13.2-javadoc.jar"
+    ]
+}
